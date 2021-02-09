@@ -72,5 +72,6 @@ public class Driver {
             driver = null;// ve sıfırladık null assign etmekle
         }
        //commit
+        //commit2
     }
 }
