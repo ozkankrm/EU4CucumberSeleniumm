@@ -71,5 +71,6 @@ public class Driver {
             driver.quit();//browser ı kapattık
             driver = null;// ve sıfırladık null assign etmekle
         }
+       //commit
     }
 }
